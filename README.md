@@ -1,2 +1,2 @@
-# kapilsomani.github.io
+# kapilsomani
 Portfolio Website
