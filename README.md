@@ -1,2 +1,0 @@
-# kapilsomani
-Portfolio Website
